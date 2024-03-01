@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Destroy
+  - Plante_agatatoare
+  - portal_to_scene1
+  - CheckPoint
+  - ToMove
+  - Boat
+  - Fall
+  - Scara
+  - Trampoline
+  - Destroy_player
+  - Cusca
+  - Maneta
+  - Tavan
+  - Ground2
+  - Check_point
+  - Destroy_player_instantly
+  - Zid
+  - Batranel
+  - Chest
+  - Key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2570093075
+    locked: 0
+  - name: player
+    uniqueID: 3778417109
+    locked: 0
+  - name: front
+    uniqueID: 2895437849
+    locked: 0
+  - name: camera
+    uniqueID: 3223782653
+    locked: 0

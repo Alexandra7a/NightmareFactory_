@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<SaveData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EXIT>1</EXIT>
+  <SaveName />
+  <index>4</index>
+  <pos>
+    <x>164.325516</x>
+    <y>-1261.87817</y>
+    <z>0</z>
+  </pos>
+  <lastCP>
+    <x>579.9889</x>
+    <y>-1201.72852</y>
+    <z>0</z>
+  </lastCP>
+</SaveData>
