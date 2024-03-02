@@ -4,7 +4,7 @@
 
 ![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/62260d84-5b4d-4c66-861e-19a7ce4d8864)
 
-Below there are some scenes from the game:
+# Below, there are some scenes from the game:
 <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9" width="250" height="250">
 ![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9 =250x250)
 
