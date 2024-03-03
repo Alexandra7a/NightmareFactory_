@@ -11,8 +11,8 @@ This section covers different aspects of the creation process of the game: the f
 ## Animations
 Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. 
 <div>
-  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866" width="30%" height="50">
-  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/dfc45979-9e1d-492f-a4ca-49d44e9ded6c" width="30%" height="50">
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866" width="50%" height="100">
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/dfc45979-9e1d-492f-a4ca-49d44e9ded6c" width="50%" height="100">
 </div>
 
 
