@@ -9,7 +9,7 @@ I often got fascinated by the game industry and asked myself: ‘How are these g
 # Technical details and Implementation
 This section covers different aspects of the creation process of the game: the front-end part consisting of animations, and back-end depicting the way some aspects of the project work.
 ## Animations
-Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. 
+Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. The walk and jump actions were created this way.
 <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866">
 
 ## Scripts
@@ -54,7 +54,8 @@ void LateUpdate()
     }
 }
 ```
-
+# Conclusion
+This file depicts just a sample of the project's functionalities, there are a lot more details about the player, environment and interactions. The content above is just a game introduction.
 # Some scenes from the game
 <div>
   <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/9db7ed7f-e3ee-4657-9459-4fa05d253a7d" width="30%" height="10%"/>
