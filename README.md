@@ -8,22 +8,7 @@
 I often got fascinated by the game industry and asked myself: ‘How are these games created?’. I searched and discovered one of many game engines out there, Unity. At first it looked complicated, but once I dived in, the structure became clear and my performance increased.
 
 # Below, there are some scenes from the game:
-<div class="Grid">
-    <div class="Grid-cell">…</div>
-    <div class="Grid-cell">…</div>
-</div>
-<img src="![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9)" width="425"/> <img src="[image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/10331be9-17a5-4e4c-9821-9dfb8e303516)" width="425"/> 
 
-  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9" width="250" height="250">
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  blah |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
-
-
-||[image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/10331be9-17a5-4e4c-9821-9dfb8e303516)|
-|:---:|:---:|:---:|
-| ![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/8bdac139-e66e-498d-886c-eb1f709df840)|5|
-
+![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/9db7ed7f-e3ee-4657-9459-4fa05d253a7d)
+![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/1f64a3fd-f9d3-4272-b6fe-df503980b2c0)
+![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/39893f9d-1698-4c2b-86f1-635535cba0e9)
