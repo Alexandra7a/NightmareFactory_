@@ -49,7 +49,7 @@ void LateUpdate()
     temp.x = target.position.x;
     temp.y = target.position.y;
     if (temp.x > x_min && temp.x < x_max)//the limitations
-    // asign the value to the actual components of the camera
+    // assign the value to the actual components of the camera
      transform.position = new Vector3(target.position.x + x_set, target.transform.position.y + y_set, transform.position.z);
     }
 }
