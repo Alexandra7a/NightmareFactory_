@@ -1,4 +1,4 @@
-![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/de5f1ac4-e25c-4344-ae06-f16da371e904)# NightmareFactory in a nutshell
+# NightmareFactory in a nutshell
 Hi there, this is a project I've worked on in Unity using C#, a 2D puzzle style game. It was made from scratch, including the graphics, which were created in Photoshop. It follows the adventure of a little girl lost in a dream world, actually a nightmare world, where all her fears come true. She is fighting to go forward and pass all the obstacles and regain the light which symbolizes the morning. The game's style is black and white, the characters being designed in form of a shadow.
   
 
