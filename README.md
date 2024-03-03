@@ -12,6 +12,23 @@ This section covers different aspects of the creation process of the game: the f
 Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. 
 <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866">
 
+## Some scripts briefly
+### Handleing buttons
+When the New Button is clicked the game opens with a new scene(the second scene of the game)
+    void NewGame() { SceneManager.LoadScene(2); //loads the second scene }
+The continue button has two separate actions: unresponsive when the game is freshly started and responsive in case the user came back to play again
+    void Continue()
+    { 
+      if (first_scene_player.firstOpening == 3) // a variable responsible to check the NewGame button clicked
+      { SceneManager.LoadScene(save.IndexScene());// save.Index returns the player's current scene } 
+      else
+      {
+        // the buttion is not responsive because the game was never started
+        b2_color = yourButton2.GetComponent<Button>().colors; 
+        b2_color.normalColor = Color.gray; 
+        yourButton2.GetComponent<Button>().colors = b2_color; }
+    }
+
 
 
 # Some scenes from the game
