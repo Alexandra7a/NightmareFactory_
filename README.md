@@ -15,8 +15,9 @@ Unity facilitates this aspect by having a built-in animation system. Fist of all
 ## Some scripts briefly
 ### Handleing buttons
 When the New Button is clicked the game opens with a new scene(the second scene of the game)
-
+```c#
     void NewGame() { SceneManager.LoadScene(2); //loads the second scene }
+ ```
 The continue button has two separate actions: unresponsive when the game is freshly started and responsive in case the user came back to play again.
 
     void Continue()
