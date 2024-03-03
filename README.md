@@ -19,7 +19,7 @@ When the New Button is clicked the game opens with a new scene(the second scene 
     void NewGame() { SceneManager.LoadScene(2); //loads the second scene }
  ```
 The continue button has two separate actions: unresponsive when the game is freshly started and responsive in case the user came back to play again.
-
+```c#
     void Continue()
     { 
       if (first_scene_player.firstOpening == 3) // a variable responsible to check the NewGame button clicked
@@ -31,7 +31,7 @@ The continue button has two separate actions: unresponsive when the game is fres
         b2_color.normalColor = Color.gray; 
         yourButton2.GetComponent<Button>().colors = b2_color; }
     }
-
+```
 
 
 # Some scenes from the game
