@@ -10,8 +10,8 @@ I often got fascinated by the game industry and asked myself: ‘How are these g
 # Below, there are some scenes from the game:
 <div>
   <div> </div>
-   <div>![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/10331be9-17a5-4e4c-9821-9dfb8e303516)</div>
-   <div> ![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/8bdac139-e66e-498d-886c-eb1f709df840)</div>
+   <div>!</div>
+   <div></div>
   
 </div>
 
@@ -25,7 +25,7 @@ I often got fascinated by the game industry and asked myself: ‘How are these g
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
 
-|![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9)|2|3|
+|![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/e1718769-8d9d-462f-a2bd-3b2dd9216df9)|[image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/10331be9-17a5-4e4c-9821-9dfb8e303516)|
 |:---:|:---:|:---:|
-|4|5|6|
+| ![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/8bdac139-e66e-498d-886c-eb1f709df840)|5|
 
