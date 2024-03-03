@@ -27,13 +27,33 @@ The continue button has two separate actions: unresponsive when the game is fres
       { SceneManager.LoadScene(save.IndexScene());// save.Index returns the player's current scene } 
       else
       {
-        // the buttion is not responsive because the game was never started
+        // the button is not responsive because the game was never started
         b2_color = yourButton2.GetComponent<Button>().colors; 
         b2_color.normalColor = Color.gray; 
         yourButton2.GetComponent<Button>().colors = b2_color; }
     }
 ```
 
+The last button from the first scene is Exit:
+```c#
+void Exit() { Application.Quit(); }
+```
+### The camera movement
+The player is followed along the game by a 'camera' which must adjust its position to be able to have the target in sight. The change is realised in LateUpdate function instead of Update function because it facilitates the motion's smoothness. In addition the map has some limitations. The observable space consists of the design elements, so the camera must be sopped before reaching those limitations, so the player cannot be able to see the blank space outside the map.
+```c#
+void LateUpdate()
+{
+  if (target)// the target need to exist
+    {
+    temp = transform.position;
+    temp.x = target.position.x;
+    temp.y = target.position.y;
+    if (temp.x > x_min && temp.x < x_max)//the limitations
+    // asign the value to the actual components of the camera
+     transform.position = new Vector3(target.position.x + x_set, target.transform.position.y + y_set, transform.position.z);
+    }
+}
+```
 
 # Some scenes from the game
 <div>
