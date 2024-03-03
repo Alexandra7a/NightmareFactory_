@@ -13,4 +13,6 @@ I often got fascinated by the game industry and asked myself: ‘How are these g
   <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/1f64a3fd-f9d3-4272-b6fe-df503980b2c0" width="30%" height="10%"/>
    <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/39893f9d-1698-4c2b-86f1-635535cba0e9" width="30%" height="10%"/>
   <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/4d992a1c-7464-4f8c-9c02-9f6ec42d9f58" width="30%" height="10%"/>
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/9620ea0a-3e62-46c6-9bb1-166b4bb57fff" width="30%" height="10%"/>
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/450e9285-b9a0-425a-9b29-b818a469e733" width="30%" height="10%"/>
 </div>
