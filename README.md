@@ -9,13 +9,13 @@ I often got fascinated by the game industry and asked myself: ‘How are these g
 # Technical details and Implementation
 This section covers different aspects of the creation process of the game: the front-end part consisting of animations, and back-end depicting the way some aspects of the project work.
 ## Animations
-Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. The walk and jump actions were created this way.
+Unity facilitates this aspect by having a built-in animation system. First of all, the character needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. The walk and jump actions were created this way.
 <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866">
 
 ## Scripts
 Some samples regarding the scrips used in the project.
-### Handleing buttons
-When the New Button is clicked the game opens with a new scene(the second scene of the game)
+### Handling buttons
+When the New Button is clicked the game opens with a new scene (the second scene of the game).
 ```c#
     void NewGame() { SceneManager.LoadScene(2); //loads the second scene }
  ```
@@ -39,7 +39,7 @@ The last button from the first scene is Exit:
 void Exit() { Application.Quit(); }
 ```
 ### The camera movement
-The player is followed along the game by a 'camera' which must adjust its position to be able to have the target in sight. The change is realised in LateUpdate function instead of Update function because it facilitates the motion's smoothness. In addition the map has some limitations. The observable space consists of the design elements, so the camera must be sopped before reaching those limitations, so the player cannot be able to see the blank space outside the map.
+The player is followed along the game by a 'camera' which must adjust its position to be able to have the target in sight. The change is realised in LateUpdate function instead of Update function because it facilitates the motion's smoothness. In addition, the map has some limitations. The observable space consists of the design elements, so the camera must be sopped before reaching those limitations, so the player cannot be able to see the blank space outside the map.
 ```c#
 void LateUpdate()
 {
