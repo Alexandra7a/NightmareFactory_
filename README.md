@@ -1,4 +1,4 @@
-# NightmareFactory in a nutshell
+![image](https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/de5f1ac4-e25c-4344-ae06-f16da371e904)# NightmareFactory in a nutshell
 Hi there, this is a project I've worked on in Unity using C#, a 2D puzzle style game. It was made from scratch, including the graphics, which were created in Photoshop. It follows the adventure of a little girl lost in a dream world, actually a nightmare world, where all her fears come true. She is fighting to go forward and pass all the obstacles and regain the light which symbolizes the morning. The game's style is black and white, the characters being designed in form of a shadow.
   
 
@@ -6,7 +6,18 @@ Hi there, this is a project I've worked on in Unity using C#, a 2D puzzle style 
 # Why Unity? 
 I often got fascinated by the game industry and asked myself: ‘How are these games created?’. I searched and discovered one of many game engines out there, Unity. At first it looked complicated, but once I dived in, the structure became clear and my performance increased.
 
-# some scenes from the game
+# Technical details and Implementation
+This section covers different aspects of the creation process of the game: the front-end part consisting of animations, and back-end depicting the way some aspects of the project work.
+## Animations
+Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. 
+<div>
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866" width="30%" height="10">
+  <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/899285c5-1f7f-4ce9-805b-791f4e6967fe" width="30%" height="10">
+</div>
+
+
+
+# Some scenes from the game
 <div>
   <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/9db7ed7f-e3ee-4657-9459-4fa05d253a7d" width="30%" height="10%"/>
   <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/1f64a3fd-f9d3-4272-b6fe-df503980b2c0" width="30%" height="10%"/>
