@@ -12,7 +12,8 @@ This section covers different aspects of the creation process of the game: the f
 Unity facilitates this aspect by having a built-in animation system. Fist of all, the charater needs to have some 'bones' to be able to move. The motion is taken frame by frame adjusting the body parts of the character. 
 <img src="https://github.com/Alexandra7a/NightmareFactory_/assets/63046754/b006e39b-5582-4ec2-841a-4cbf472a2866">
 
-## Some scripts briefly
+## Scripts
+Some samples regarding the scrips used in the project.
 ### Handleing buttons
 When the New Button is clicked the game opens with a new scene(the second scene of the game)
 ```c#
