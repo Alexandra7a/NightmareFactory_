@@ -1,3 +1,7 @@
+@import "/bower_components/suit-grid/grid.css";
+@import "/bower_components/suit-grid-layouts/grid-layouts-v1.css";
+@import "/bower_components/suit-grid-layouts/grid-layouts-v2.css" (min-width: 25em);
+@import "/bower_components/suit-grid-layouts/grid-layouts-v3.css" (min-width: 50em);
 # NightmareFactory in a nutshell
 .
   Hi there, this is a project I've worked on in Unity using C#, a 2D puzzle style game. It was made from scratch, including the graphics, which were created in Photoshop. It follows the adventure of a little girl lost in a dream world, actually a nightmare world, where all her fears come true. She is fighting to go forward and pass all the obstacles and regain the light which symbolizes the morning. The game's style is black and white, the characters being designed in form of a shadow.
@@ -8,11 +12,9 @@
 I often got fascinated by the game industry and asked myself: ‘How are these games created?’. I searched and discovered one of many game engines out there, Unity. At first it looked complicated, but once I dived in, the structure became clear and my performance increased.
 
 # Below, there are some scenes from the game:
-<div>
-  <div> </div>
-   <div>!</div>
-   <div></div>
-  
+<div class="Grid">
+    <div class="Grid-cell">…</div>
+    <div class="Grid-cell">…</div>
 </div>
 
 
